@@ -1,1 +1,18 @@
-theme: jekyll-theme-cayman
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: My scientific collection
+email: fuubi@protonmail.ch 
+description: In my scientific collection, I publish my papers, notes and summaries from my studies.
+baseurl: "/scientific-collection" # the subpath of your site, e.g. /blog
+url: "https://fuubi.github.io" # the base hostname & protocol for your site
+github_username: FUUbi
+
+
+# Build settings
+markdown: kramdown
